@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whispering Names In Rain
+
+This log tracks the cryptographic history and versioning for the song **Whispering Names In Rain** (whispering-names-in-rain).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T15:57:46.033992 | `v1` | `5a6ac19ee19504891345057d3ca46cf8469e0d99905ca4151224761586ed41f6` | `a1b0b1b5f11367d46ca6b8190e372e759d7bf68c86e6a6d4aa4193b30f178de6` | `2026-06-09_whispering-names-in-rain-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

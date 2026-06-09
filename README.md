@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-names-in-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Whispering Names In Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-names-in-rain/) |
+| **Get License** | [Request Licensing for Whispering Names In Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-names-in-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5a6ac19ee19504891345057d3ca46cf8469e0d99905ca4151224761586ed41f6` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
